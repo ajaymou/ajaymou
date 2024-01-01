@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Ajay Mourya and I'm a Full Stack Developer(FRONTEND/BACKEND/APP)</h2>
 
 ###
 
