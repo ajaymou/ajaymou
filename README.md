@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Mourya</h1>
 <h3 align="center">Full stack developer (FRONTEND/BACKEND/MOBILE-APP)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaymou" alt="ajaymou" /></a> </p>
-
 - 🔭 I’m currently working on **Full Stack projects**
 
 - 📫 How to reach me **ajaymourya0116@gmail.com**
